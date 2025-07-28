@@ -2,8 +2,6 @@ import matplotlib
 matplotlib.use("Agg")
 import requests as re
 import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
 from decimal import Decimal
 from datetime import datetime as d
 
