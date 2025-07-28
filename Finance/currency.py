@@ -4,7 +4,7 @@ import requests as re
 import matplotlib.pyplot as plt
 from decimal import Decimal
 from datetime import datetime as d
-
+import numpy as np
 from flask import Flask, redirect, url_for, render_template_string, request
 import io
 import base64
